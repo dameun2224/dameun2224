@@ -1,4 +1,8 @@
-## Hi there 👋
+## Kim DamEun
+
+전북대학교 컴퓨터공학부 22학번 김담은
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungri823)](https://solved.ac/jungri823/)
 
 <!--
 **dameun2224/dameun2224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
